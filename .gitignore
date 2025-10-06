@@ -1,0 +1,22 @@
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build (future-proofing)
+/dist
+/build
+/public
+/node_modules
+
+# Env
+.env
+.env.local
