@@ -1,0 +1,34 @@
+{
+  "name": "persian-digital-nexus",
+  "version": "1.2.0",
+  "description": "Unified digital ecosystem for Iranians: real estate, crypto, investment, insurance, and secure tools — privacy-first, static-only.",
+  "keywords": [
+    "iran",
+    "persian",
+    "real-estate",
+    "crypto",
+    "password-generator",
+    "static-site",
+    "privacy",
+    "digital-services"
+  ],
+  "author": "TechForAll1373",
+  "license": "MIT",
+  "homepage": "https://techforall1373.github.io/persian-digital-nexus/",
+  "scripts": {
+    "dev": "npx serve -s -p 8080",
+    "format": "npx prettier --write \"**/*.{html,css,md,json}\"",
+    "check": "npx prettier --check \"**/*.{html,css,md,json}\""
+  },
+  "devDependencies": {
+    "serve": "^14.2.3",
+    "prettier": "^3.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TechForAll1373/persian-digital-nexus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TechForAll1373/persian-digital-nexus/issues"
+  }
+}
