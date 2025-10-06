@@ -3,7 +3,6 @@
 > **The Unified Digital Ecosystem for Iranians**  
 > A static-first, privacy-respecting portal connecting real estate, automotive, investment, insurance, advertising, crypto, and secure utilities — all in one place.
 
-![Persian Digital Nexus](https://via.placeholder.com/800x300/000000/88ccff?text=Persian+Digital+Nexus)
 
 ## 🌐 Core Platforms
 
